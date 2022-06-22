@@ -8,7 +8,7 @@
     <br>
     <a href="https://velog.io/@hongdol" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=velog&logoColor=white"/></a> &nbsp <a href="mailto:alsdnsla12345@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
     <br>
-    <h3 align="center"> Coding-Test 👩‍💻 </h3>
+<!--     <h3 align="center"> Coding-Test 👩‍💻 </h3> -->
 
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gustmd213)](https://solved.ac/gustmd213) -->
 
