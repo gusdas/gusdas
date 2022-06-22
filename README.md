@@ -10,7 +10,7 @@
     <br>
     <h3 align="center"> Coding-Test 👩‍💻 </h3>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gustmd213)](https://solved.ac/gustmd213)
+<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gustmd213)](https://solved.ac/gustmd213) -->
 
 </div>
 
